@@ -14,4 +14,17 @@ Este projeto simula um banco simples utilizando Programação Orientada a Objeto
 
 ## Estrutura de Pastas
 
-Banco/ ├── Main/ │ ├── banco/ │ │ ├── ContaBancaria.java │ │ ├── Banco.java │ │ └── Main.java │ └── README.md └── .gitignore
+Banco/ ├──contas ├── Conta.java │ │ ├── ContaCorrente.java │ │ ├── ContaPoupanca │ │ / Main.java │ │ │  Entrar.java  
+│ │ │ Registra │ │ │ Limpar
+
+## Requisitos
+
+- JDK 11 ou superior.
+- IDE recomendada: IntelliJ IDEA, Eclipse ou VS Code.
+
+## Como Rodar o Projeto
+
+1. Clone este repositório em seu computador:
+
+   ```bash
+   git clone https://github.com/seu-usuario/banco-simples-java.git
