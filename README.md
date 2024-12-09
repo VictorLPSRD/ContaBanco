@@ -12,7 +12,16 @@ Este projeto simula um banco simples utilizando Programação Orientada a Objeto
 - Realizar saques.
 - Visualizar saldo da conta.
 
-## Estrutura de Pastas
+## Estrutura do Código
+
+O código é dividido em três classes principais:
+
+- **Main**: Classe principal que contém o menu de opções e gerencia a interação com o usuário.
+- **Registra**: Classe responsavel por registrar o usuario e ele conseguir Entrar na proximo aquivo.
+- **Entrar**: Classe responsavel pelas interações dos bancos.
+- 
+- **Listar**: Contém o método responsável por listar os produtos e valores do carrinho.
+
 
 Banco/ ├──contas ├── Conta.java │ │ ├── ContaCorrente.java │ │ ├── ContaPoupanca │ │ / Main.java │ │ │  Entrar.java  
 │ │ │ Registra │ │ │ Limpar
