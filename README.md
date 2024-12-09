@@ -17,12 +17,12 @@ Este projeto simula um banco simples utilizando Programação Orientada a Objeto
 Banco/ ├──contas ├── Conta.java │ │ ├── ContaCorrente.java │ │ ├── ContaPoupanca │ │ / Main.java │ │ │  Entrar.java  
 │ │ │ Registra │ │ │ Limpar
 
-## Requisitos
+## 🧩 Pré-requisitos
 
 - JDK 11 ou superior.
 - IDE recomendada: IntelliJ IDEA, Eclipse ou VS Code.
 
-## Como Rodar o Projeto
+# 🚀 Como Executar
 
 1. Clone este repositório em seu computador:
 
